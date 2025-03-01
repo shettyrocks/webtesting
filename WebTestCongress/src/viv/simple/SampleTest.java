@@ -11,8 +11,8 @@ public class SampleTest {
 	@Test
 	public void testfunction()
 	{
-		logger.info("Test method : testfunction");
 		System.out.print("TestNg");
+		logger.info("Test method : testfunction");
 	}
 
 }
