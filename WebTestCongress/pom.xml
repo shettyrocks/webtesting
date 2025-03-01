@@ -16,6 +16,7 @@
     </plugins>
   </build>
   <dependencies>
+  
     <!-- Log4j2 API (SLF4J binding) -->
     <dependency>
         <groupId>org.apache.logging.log4j</groupId>

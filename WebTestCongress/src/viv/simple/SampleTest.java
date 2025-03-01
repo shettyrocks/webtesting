@@ -14,5 +14,4 @@ public class SampleTest {
 		System.out.print("TestNg");
 		logger.info("Test method : testfunction");
 	}
-
 }

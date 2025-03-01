@@ -25,6 +25,7 @@
     </Layout>
 </Appender>
 
+
     <!-- Loggers define which log messages are processed -->
     <Loggers>
         <!-- Root logger (logs all messages) -->
