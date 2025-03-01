@@ -6,5 +6,4 @@ public class TestPage {
 	
 		System.out.println("Hello");
 	}
-
 }
